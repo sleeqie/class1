@@ -1,1 +1,5 @@
-
+#Classwork
+poker_vector
+Roulette
+total_all <- c(poker_vector + Roulette)
+total_all
